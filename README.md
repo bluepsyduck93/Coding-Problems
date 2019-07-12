@@ -2,6 +2,8 @@
 
 A collection of repositories containing coding problems from various sources and solutions each individual participating has written up
 
+Go to the [wiki](https://github.com/bluepsyduck93/Coding-Problems/wiki) for the problems
+
 Sources:
 
 [AlgoExpert](https://www.algoexpert.io/product)  - WIP (Need to add easy, medium , and hard questions)
