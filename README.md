@@ -1,20 +1,14 @@
-# Daily-Coding-Problem
+# Coding Problems
 
-## 1
-Run-length encoding is a fast and simple method of encoding strings. 
-The basic idea is to represent repeated successive characters as a single count and character. 
-For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A".
+A collection of repositories containing coding problems from various sources and solutions each individual participating has written up
 
-Implement run-length encoding and decoding. 
-You can assume the string to be encoded have no digits and consists solely of alphabetic characters. 
-You can assume the string to be decoded is valid.
+Sources:
 
+algoexpert.io
 
-## 2
-Given an arithmetic expression in Reverse Polish Notation, write a program to evaluate it.
+Daily Coding Problem
 
-The expression is given as a list of numbers and operands. For example: [5, 3, '+'] should return 5 + 3 = 8.
+Disclaimer:
 
-For example, [15, 7, 1, 1, '+', '-', '/', 3, '*', 2, 1, 1, '+', '+', '-'] should return 5, since it is equivalent to ((15 / (7 - (1 + 1))) * 3) - (2 + (1 + 1)) = 5.
-
-You can assume the given expression is always valid.
+1) I don't claim to know the solution, nor does anyone else.
+2) I don't own any of these problems. (Not sure if anyone does)
