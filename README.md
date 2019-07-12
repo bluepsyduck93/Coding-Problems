@@ -1,6 +1,6 @@
 # Daily-Coding-Problem
 
-## 29
+## 1
 Run-length encoding is a fast and simple method of encoding strings. 
 The basic idea is to represent repeated successive characters as a single count and character. 
 For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A".
@@ -10,7 +10,7 @@ You can assume the string to be encoded have no digits and consists solely of al
 You can assume the string to be decoded is valid.
 
 
-## 163
+## 2
 Given an arithmetic expression in Reverse Polish Notation, write a program to evaluate it.
 
 The expression is given as a list of numbers and operands. For example: [5, 3, '+'] should return 5 + 3 = 8.
