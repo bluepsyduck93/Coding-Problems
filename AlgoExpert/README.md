@@ -1,6 +1,6 @@
 # AlgoExpert
 
-## Iterative In-order Traversal - VH 1
+## Iterative In-order Traversal - Very Hard 1
 Write a function that takes in a Binary Tree and traverses it using the in-order traversal technique but without using recursion. 
 
 As the tree is being traversed, a callback function passed in as an argument to the main function should be called on each node (i.e. callback(currentNode)). 
