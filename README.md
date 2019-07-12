@@ -4,9 +4,9 @@ A collection of repositories containing coding problems from various sources and
 
 Sources:
 
-algoexpert.io
+[AlgoExpert](https://www.algoexpert.io/product)
 
-Daily Coding Problem
+[Daily Coding Problem](https://www.dailycodingproblem.com/)
 
 Disclaimer:
 
