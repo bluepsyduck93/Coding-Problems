@@ -1,6 +1,6 @@
 # Daily-Coding-Problem
 
-##29
+## 29
 Run-length encoding is a fast and simple method of encoding strings. 
 The basic idea is to represent repeated successive characters as a single count and character. 
 For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A".
