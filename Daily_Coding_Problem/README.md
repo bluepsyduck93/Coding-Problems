@@ -1,11 +1,5 @@
 # Daily-Coding-Problem
-Some notes:
 
-1) The recommend time to spend on these problems is 1 hour.
-
-2) These are real questions asked by companies. (So if the question sucked you know where not to apply to /s)
-
-3) Some of these problems do not come with a difficulty tag. If you know what the general difficulty should be, please add it in.
 
 ## Index
 [1-10](#1-10) &nbsp;&nbsp; [11-20](#11-20)
