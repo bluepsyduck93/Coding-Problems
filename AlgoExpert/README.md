@@ -1,5 +1,9 @@
 # AlgoExpert
 
+[Very Hard](#very-hard)
+
+[Extremely Hard](#extremely-hard)
+
 ## Very Hard
 
 ### Iterative In-order Traversal - Very Hard 1
@@ -116,3 +120,111 @@ None
 -
 5
 ```
+
+### Number Of Possible Binay Tree Topologies - Very Hard 6
+Write a function that takes in a non-negative integer n and that returns the number of possible Binary Tree topologies that can be created with exactly n nodes. 
+
+A Binary Tree topology is defined as any Binary Tree configuration, irrespective of node values. 
+
+For instance, there exist only two Binary Tree topologies when n is equal to 2: a root node with a left node, and a root node with a right node. 
+
+Node that when n is equal to 0, there is one topology that can be created: the None (null) node.
+
+Sample input:
+```
+3
+```
+Sample output:
+```
+5
+```
+
+### Merge Sort - Very Hard 7
+Write a function that takes in an array of integers and returns a sorted version of that array. 
+
+Use the Merge Sort algorithm to sort the array.
+
+Sample input:
+```
+[8,5,2,9,5,6,3]
+```
+Sample output:
+```
+[2,3,5,5,6,8,9]
+```
+
+## Extremely Hard
+
+### Longest Increasing Subsequence - Extremely Hard 1
+Given a non-empty array of integers, write a function that returns the longest strictly-increasing subsequence of the array. 
+
+A subsequence is defined as a set of numbers that are not necessarily adjacent but that are in the same order as they appear in the array. 
+
+Assume that there will only be one longest increasing subsequence.
+
+Sample input:
+```
+[5,7,-24,12,10,2,3,12,5,6,35]
+```
+Sample output:
+```
+[-24,2,3,5,6,35]
+```
+
+### Airport Connections - Extremely Hard 2
+You are given a list of airports (three-letter codes like 'JFK'), a list of routes (one-way flights from one airport to another like ['JFK', 'SFO']), and a starting airport. 
+
+Write a function that returns the minimum number of airport connections (one-way flights) that need to be added in order for someone to be able to reach any airport in the list, starting at the starting airport. 
+
+Note that the connections don't have to be direct; it's okay if an airport can only be reached from the starting airport by stopping at other airports first.
+
+Sample Input:
+```
+[
+"BGI",
+"CDG",
+"DEL",
+"DOH",
+"DSM",
+"EWR",
+"EYW",
+"HDN",
+"ICN",
+"JFK",
+"LGA",
+"LHR",
+"ORD",
+"SAN",
+"SFO",
+"SIN",
+"TLV",
+"BUD,
+],
+[
+["DSM","ORD"],
+["ORD","BGI"],
+["BGI","LGA"],
+["SIN","CDG"],
+["CDG","SIN"],
+["CDG","BUD"],
+["DEL","DOH"],
+["DEL","CDG"],
+["TLV","DEL"],
+["EWR","HND"],
+["HND","ICN"],
+["HND","JFK"],
+["ICN","JFK"],
+["JFK","LGA"],
+["EYW","LHR"],
+["LHR","SFO"],
+["SFO","SAN"],
+["SFO", "DSM"],
+["SAN","EYW"]
+],
+"LGA"
+```
+Sample output:
+```
+3
+```
+
