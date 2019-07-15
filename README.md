@@ -8,7 +8,9 @@ Sources:
 
 [AlgoExpert](https://www.algoexpert.io/product)  - WIP (Need to add easy, medium , and hard questions)
 
-[Daily Coding Problem](https://www.dailycodingproblem.com/)
+[Daily Coding Problem](https://www.dailycodingproblem.com/) - WIP (There's a lot of problems that need to be added ^^)
+
+[Davily Interview Pro](https://www.techseries.dev/daily)
 
 Disclaimer:
 
