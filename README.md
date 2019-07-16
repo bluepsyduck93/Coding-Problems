@@ -10,7 +10,9 @@ Sources:
 
 [Daily Coding Problem](https://www.dailycodingproblem.com/) - WIP (There's a lot of problems that need to be added ^^)
 
-[Davily Interview Pro](https://www.techseries.dev/daily)
+[Daily Interview Pro](https://www.techseries.dev/daily)
+
+[Project Euler](https://projecteuler.net/archives) - Will not put into wiki, this is already pretty well organized
 
 Disclaimer:
 
