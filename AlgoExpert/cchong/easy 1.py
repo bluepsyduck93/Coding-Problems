@@ -34,4 +34,4 @@ print(twoNumberSum([3,5,-4,8,11,1,-1,6],10))
 #         except (ValueError) as e:
 #             pass
 #         hash.append(i)
-#     return sorted(out)
+#     return out
