@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="839cb4e5-8130-4eac-a6d3-f2000099ee8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Daily_Coding_Problem/cchong/#3.py" afterDir="false" />
+    <list default="true" id="839cb4e5-8130-4eac-a6d3-f2000099ee8a" name="Default Changelist" comment="Finished 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoExpert/cchong/easy 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoExpert/cchong/easy 1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,18 +13,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Daily_Coding_Problem/cchong/#3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="38">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-end-line="26" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AlgoExpert/cchong/easy 1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily_Coding_Problem/cchong/#2.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/AlgoExpert/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="68">
+                <caret line="4" selection-start-line="4" selection-end-line="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlgoExpert/pchen/very hard 1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -34,6 +59,7 @@
       <list>
         <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -53,13 +79,15 @@
         <option value="$PROJECT_DIR$/AlgoExpert/boilerplate/veryhard/c++/iterative.cpp" />
         <option value="$PROJECT_DIR$/AlgoExpert/boilerplate/veryhard/python/iterative.py" />
         <option value="$PROJECT_DIR$/Daily_Coding_Problem/cchong/#3.py" />
+        <option value="$PROJECT_DIR$/AlgoExpert/pchen/very hard 1.js" />
+        <option value="$PROJECT_DIR$/AlgoExpert/cchong/easy 1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="790" />
-    <option name="y" value="153" />
-    <option name="width" value="1092" />
+    <option name="y" value="151" />
+    <option name="width" value="1094" />
     <option name="height" value="850" />
   </component>
   <component name="ProjectView">
@@ -126,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.#3">
+  <component name="RunManager" selected="Python.easy 1">
     <configuration name="#163" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Coding-Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,8 +221,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="easy 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coding-Problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AlgoExpert/cchong" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AlgoExpert/cchong/easy 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.easy 1" />
         <item itemvalue="Python.#3" />
         <item itemvalue="Python.#163" />
         <item itemvalue="Python.#29" />
@@ -214,7 +265,9 @@
       <workItem from="1562953481858" duration="210000" />
       <workItem from="1562953708944" duration="102000" />
       <workItem from="1562953828537" duration="5860000" />
-      <workItem from="1562960142953" duration="6360000" />
+      <workItem from="1562960142953" duration="9454000" />
+      <workItem from="1563217906395" duration="454000" />
+      <workItem from="1563376207330" duration="1665000" />
     </task>
     <task id="LOCAL-00001" summary="Finished Problem 29">
       <created>1562955429399</created>
@@ -293,11 +346,32 @@
       <option name="project" value="LOCAL" />
       <updated>1562963187551</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Finished 3">
+      <created>1563214191091</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1563214191091</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Finished 3">
+      <created>1563216820469</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1563216820469</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Christine Easy 1&#10;Patrick Very Hard 1">
+      <created>1563377222661</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1563377222661</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12532000" />
+    <option name="totallyTimeSpent" value="17745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -312,22 +386,22 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23324397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23994638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3281471" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32531825" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3281471" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3281471" />
       <window_info active="true" anchor="bottom" id="GitHub Pull Requests" order="13" weight="0.32956153" />
       <window_info anchor="bottom" id="Jupyter" order="14" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -350,12 +424,15 @@
     <MESSAGE value="Changed structure of project" />
     <MESSAGE value="Fixed AlgoExpert Readme" />
     <MESSAGE value="meta" />
-    <option name="LAST_COMMIT_MESSAGE" value="meta" />
+    <MESSAGE value="Finished 3" />
+    <MESSAGE value="Christine Easy 1&#10;Patrick Very Hard 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Christine Easy 1&#10;Patrick Very Hard 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Daily_Coding_Problem$_29.coverage" NAME="#29 Coverage Results" MODIFIED="1562957930021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Coding_Problems$easy_1.coverage" NAME="easy 1 Coverage Results" MODIFIED="1563376567958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AlgoExpert/cchong" />
     <SUITE FILE_PATH="coverage/Daily_Coding_Problem$_163.coverage" NAME="#163 Coverage Results" MODIFIED="1562958866560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cchong" />
-    <SUITE FILE_PATH="coverage/Coding_Problems$_3.coverage" NAME="#3 Coverage Results" MODIFIED="1563214159248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Daily_Coding_Problem/cchong" />
+    <SUITE FILE_PATH="coverage/Coding_Problems$_3.coverage" NAME="#3 Coverage Results" MODIFIED="1563216808913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Daily_Coding_Problem/cchong" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore" />
@@ -377,26 +454,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoExpert/boilerplate/veryhard/c++/iterative.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoExpert/boilerplate/veryhard/python/iterative.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoExpert/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoExpert/boilerplate/veryhard/c++/iterative.cpp" />
+    <entry file="file://$PROJECT_DIR$/AlgoExpert/boilerplate/veryhard/python/iterative.py" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -415,8 +474,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Daily_Coding_Problem/cchong/#3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="38">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoExpert/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoExpert/pchen/very hard 1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoExpert/cchong/easy 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
         </state>
       </provider>
     </entry>
