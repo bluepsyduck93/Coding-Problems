@@ -15,17 +15,17 @@
 #One Pass Method
 def twosum(in_arr, k):
     out = 0
-    hash = []
+    hash = {}
     for i in in_arr:
         complement = k - i
-        try :
-            hash.index(complement)
+        if complement in in_arr:
             out = 1
-        except (ValueError) as e:
-            pass
-        hash.append(i)
+        else:
+            hash[i]= True
     return out
 
 
 print(twosum([1,99,49,2],100))
+
+# Hash Table - Key Value can be any data type, java is the only language that makes sure that they must be type safe
 
