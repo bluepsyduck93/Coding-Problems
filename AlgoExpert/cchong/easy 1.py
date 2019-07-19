@@ -5,13 +5,11 @@ def twoNumberSum(in_arr, k):
     hash = []
     for i in in_arr:
         complement = k - i
-        try :
-            hash.index(complement)
-            out.append(in_arr[hash.index(complement)])
+        if complement in in_arr:
             out.append(i)
-        except (ValueError) as e:
-            pass
-        hash.append(i)
+            out.append(complement)
+        else:
+            hash[i] = True
     return sorted(out)
 
 # Sorted uses TimSort
@@ -23,15 +21,13 @@ print(twoNumberSum([3,5,-4,8,11,1,-1,6],10))
 #     hash = []
 #     for i in in_arr:
 #         complement = k - i
-#         try :
-#             hash.index(complement)
-#             if complement < i:
-#                 out.append(in_arr[hash.index(complement)])
+#         if complement in in_arr:
+#             if(complement >i):
 #                 out.append(i)
+#                 out.append(complement)
 #             else:
+#                 out.append(complement)
 #                 out.append(i)
-#                 out.append(in_arr[hash.index(complement)])
-#         except (ValueError) as e:
-#             pass
-#         hash.append(i)
-#     return sorted(out)
+#         else:
+#             hash[i] = True
+#     return out
