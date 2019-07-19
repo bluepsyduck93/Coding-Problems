@@ -1,4 +1,4 @@
-# with Division Method
+# with Division Method O(n)
 # def withDiv(in_arr):
 #     out = []
 #     total = 1
@@ -10,7 +10,7 @@
 #
 # print(withDiv([1,2,3,4,5]))
 
-#O n^2
+#O (n^2)
 def withoutDiv(in_arr):
     out = []
     for i in range(0, len(in_arr)):
